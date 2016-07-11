@@ -13,7 +13,7 @@ using System.Collections.ObjectModel;
 
 namespace com.kinetics.prism.Activitys.Sales
 {
-    [Activity(Label = "Create Sales Order",MainLauncher = true)]
+    [Activity(Label = "Create Sales Order")]
     public class SalesOrderCreate :Activity
     {
         ObservableCollection<SalesLine> SalesLines = new ObservableCollection<SalesLine>();
@@ -27,12 +27,13 @@ namespace com.kinetics.prism.Activitys.Sales
 
             //if (SalesLines ==null || SalesLines.Count ==0) { loadSalesLines();  }
             //if (SalesLines == null || SalesLines.Count == 0) { loadDummySalesLines(); }
+            loadDummySalesLines();
             SalesLineView  = FindViewById<ListView>(Resource.Id.SalesLineView);
             SalesLineView.Adapter = new SalesLineAdapter(this, SalesLines);
             thisAdapter = (SalesLineAdapter)SalesLineView.Adapter;
-            Button addItemsImg = FindViewById<Button>(Resource.Id.AddSalesLine);
+            /*Button addItemsImg = FindViewById<Button>(Resource.Id.AddSalesLine);
             addItemsImg.Clickable = true;
-            addItemsImg.Click += AddItemClick;
+            addItemsImg.Click += AddItemClick;*/
         }
 
         protected void AddItemClick(object sender, EventArgs e)

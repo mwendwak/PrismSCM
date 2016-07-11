@@ -4,7 +4,7 @@ using Android.OS;
 
 namespace com.kinetics.prism
 {
-    
+    [Activity(MainLauncher = true)]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle bundle)

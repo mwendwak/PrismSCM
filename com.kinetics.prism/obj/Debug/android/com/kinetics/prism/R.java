@@ -2609,7 +2609,6 @@ containing a value of this type.
         public static final int prismlogo=0x7f020056;
     }
     public static final class id {
-        public static final int AddSalesLine=0x7f0600ae;
         public static final int CustomerBalance=0x7f060077;
         public static final int CustomerDetails=0x7f060076;
         public static final int CustomerID=0x7f060075;
@@ -2635,8 +2634,8 @@ containing a value of this type.
         public static final int SalesHeaderID=0x7f060081;
         public static final int SalesHeaderListView=0x7f06007e;
         public static final int SalesHeaderName=0x7f06007f;
-        public static final int SalesLineView=0x7f0600b0;
-        public static final int UserID=0x7f0600b8;
+        public static final int SalesLineView=0x7f0600af;
+        public static final int UserID=0x7f0600b7;
         public static final int action0=0x7f060099;
         public static final int action_bar=0x7f06005e;
         public static final int action_bar_activity_content=0x7f060001;
@@ -2659,8 +2658,8 @@ containing a value of this type.
         public static final int always=0x7f06002f;
         public static final int beginning=0x7f06002d;
         public static final int bottom=0x7f06000f;
-        public static final int btn_login=0x7f0600ba;
-        public static final int btn_register=0x7f0600bb;
+        public static final int btn_login=0x7f0600b9;
+        public static final int btn_register=0x7f0600ba;
         public static final int buttonPanel=0x7f060048;
         public static final int cancel_action=0x7f06009a;
         public static final int center=0x7f060010;
@@ -2708,22 +2707,22 @@ containing a value of this type.
         public static final int ifRoom=0x7f060031;
         public static final int image=0x7f060043;
         public static final int info=0x7f0600a4;
-        public static final int input_password=0x7f0600b9;
+        public static final int input_password=0x7f0600b8;
         public static final int item_touch_helper_previous_elevation=0x7f060000;
         public static final int lblCustomer=0x7f0600a7;
         public static final int lblCustomerasdas=0x7f0600a9;
         public static final int lblDocDate=0x7f0600aa;
         public static final int lblPriceGroup=0x7f0600ac;
-        public static final int lblTotalExcl=0x7f0600b6;
-        public static final int lblTotalExclValue=0x7f0600b7;
-        public static final int lblTotalNet=0x7f0600b2;
-        public static final int lblTotalNetValue=0x7f0600b3;
-        public static final int lblTotalTax=0x7f0600b4;
-        public static final int lblTotalTaxValue=0x7f0600b5;
+        public static final int lblTotalExcl=0x7f0600b5;
+        public static final int lblTotalExclValue=0x7f0600b6;
+        public static final int lblTotalNet=0x7f0600b1;
+        public static final int lblTotalNetValue=0x7f0600b2;
+        public static final int lblTotalTax=0x7f0600b3;
+        public static final int lblTotalTaxValue=0x7f0600b4;
         public static final int left=0x7f060019;
         public static final int line1=0x7f06009e;
         public static final int line3=0x7f0600a2;
-        public static final int linearLayout2=0x7f0600af;
+        public static final int linearLayout2=0x7f0600ae;
         public static final int listMode=0x7f06001d;
         public static final int list_item=0x7f060045;
         public static final int media_actions=0x7f06009c;
@@ -2741,7 +2740,7 @@ containing a value of this type.
         public static final int progress_horizontal=0x7f060007;
         public static final int radio=0x7f060058;
         public static final int relativeLayout1=0x7f0600a6;
-        public static final int relativeLayout2=0x7f0600b1;
+        public static final int relativeLayout2=0x7f0600b0;
         public static final int right=0x7f06001a;
         public static final int saleschart=0x7f060091;
         public static final int screen=0x7f060029;

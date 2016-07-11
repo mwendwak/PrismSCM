@@ -27,7 +27,7 @@ namespace com.kinetics.prism
 
             //PLUGIN THE FAB THINGIE
             FloatingActionButton fab = view.FindViewById<FloatingActionButton>(Resource.Id.fab);
-            fab.AttachToListView(view,this);
+            fab.AttachToListView(SalesHeaderListView, this);
             fab.Show();
 
             SalesHeaderListView.Adapter = new SalesHeaderHomeAdapter(Activity, SalesHeaders);

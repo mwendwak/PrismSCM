@@ -53,7 +53,7 @@ namespace com.kinetics.prism.Screens.Adapters
                     view.FindViewById<TextView>(Resource.Id.SOLineQty).Text = Record.Quantity.ToString ();
                     view.FindViewById<TextView>(Resource.Id.SOLineUnitPrice).Text = Record.UnitPrice.ToString ();
                     view.FindViewById<TextView>(Resource.Id.SOLineTotAmount).Text = Record.LineTotalAmt.ToString ();
-                    ImageButton deleteRec = view.FindViewById<ImageButton>(Resource.Id.SOLineDelete);
+                    ImageView deleteRec = view.FindViewById<ImageView>(Resource.Id.SOLineDelete);
                     deleteRec.Clickable = true;
                     deleteRec.Click += (sender, args) => DeleteOrderLine(position,parent);
                     }

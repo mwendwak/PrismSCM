@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginLeft="3dp"
-        android:textSize="18dp"
+        android:textSize="16sp"
         android:text="Fanta 300Ml" />
     <TextView
         android:id="@+id/SOLineQty"
@@ -24,7 +24,7 @@
         android:paddingLeft="3dp"
         android:paddingRight="3dp"
         android:minWidth="90px"
-        android:textSize="18dp"
+        android:textSize="16sp"
         android:background="#757575"
         android:textColor="@color/prismWhite"
         android:text="35" />
@@ -36,7 +36,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="3dp"
         android:layout_gravity="center"
-        android:textSize="18dp"
+        android:textSize="16sp"
         android:text="1000.00" />
     <TextView
         android:id="@+id/SOLineTotAmount"
@@ -45,7 +45,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="3dp"
-        android:textSize="18dp"
+        android:textSize="16sp"
         android:minWidth="200px"
         android:textColor="#3F51B5"
         android:textStyle="bold"
@@ -53,12 +53,10 @@
         android:paddingRight="3dp"
         android:layout_gravity="center"
         android:text="35,000.00" />
-    <ImageButton
+    <ImageView
         android:id="@+id/SOLineDelete"
         android:layout_gravity="center"
-        android:layout_weight="5"
-        android:layout_width="48dp"
-        android:layout_height="48dp"
-        android:descendantFocusability="blocksDescendants"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
         android:src="@drawable/ic_line_delete" />
 </LinearLayout>

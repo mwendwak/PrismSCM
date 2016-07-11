@@ -2090,9 +2090,6 @@ namespace com.kinetics.prism
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f0600ae
-			public const int AddSalesLine = 2131099822;
-			
 			// aapt resource value: 0x7f060077
 			public const int CustomerBalance = 2131099767;
 			
@@ -2168,11 +2165,11 @@ namespace com.kinetics.prism
 			// aapt resource value: 0x7f06007f
 			public const int SalesHeaderName = 2131099775;
 			
-			// aapt resource value: 0x7f0600b0
-			public const int SalesLineView = 2131099824;
+			// aapt resource value: 0x7f0600af
+			public const int SalesLineView = 2131099823;
 			
-			// aapt resource value: 0x7f0600b8
-			public const int UserID = 2131099832;
+			// aapt resource value: 0x7f0600b7
+			public const int UserID = 2131099831;
 			
 			// aapt resource value: 0x7f060099
 			public const int action0 = 2131099801;
@@ -2240,11 +2237,11 @@ namespace com.kinetics.prism
 			// aapt resource value: 0x7f06000f
 			public const int bottom = 2131099663;
 			
-			// aapt resource value: 0x7f0600ba
-			public const int btn_login = 2131099834;
+			// aapt resource value: 0x7f0600b9
+			public const int btn_login = 2131099833;
 			
-			// aapt resource value: 0x7f0600bb
-			public const int btn_register = 2131099835;
+			// aapt resource value: 0x7f0600ba
+			public const int btn_register = 2131099834;
 			
 			// aapt resource value: 0x7f060048
 			public const int buttonPanel = 2131099720;
@@ -2387,8 +2384,8 @@ namespace com.kinetics.prism
 			// aapt resource value: 0x7f0600a4
 			public const int info = 2131099812;
 			
-			// aapt resource value: 0x7f0600b9
-			public const int input_password = 2131099833;
+			// aapt resource value: 0x7f0600b8
+			public const int input_password = 2131099832;
 			
 			// aapt resource value: 0x7f060000
 			public const int item_touch_helper_previous_elevation = 2131099648;
@@ -2405,23 +2402,23 @@ namespace com.kinetics.prism
 			// aapt resource value: 0x7f0600ac
 			public const int lblPriceGroup = 2131099820;
 			
-			// aapt resource value: 0x7f0600b6
-			public const int lblTotalExcl = 2131099830;
+			// aapt resource value: 0x7f0600b5
+			public const int lblTotalExcl = 2131099829;
 			
-			// aapt resource value: 0x7f0600b7
-			public const int lblTotalExclValue = 2131099831;
+			// aapt resource value: 0x7f0600b6
+			public const int lblTotalExclValue = 2131099830;
+			
+			// aapt resource value: 0x7f0600b1
+			public const int lblTotalNet = 2131099825;
 			
 			// aapt resource value: 0x7f0600b2
-			public const int lblTotalNet = 2131099826;
+			public const int lblTotalNetValue = 2131099826;
 			
 			// aapt resource value: 0x7f0600b3
-			public const int lblTotalNetValue = 2131099827;
+			public const int lblTotalTax = 2131099827;
 			
 			// aapt resource value: 0x7f0600b4
-			public const int lblTotalTax = 2131099828;
-			
-			// aapt resource value: 0x7f0600b5
-			public const int lblTotalTaxValue = 2131099829;
+			public const int lblTotalTaxValue = 2131099828;
 			
 			// aapt resource value: 0x7f060019
 			public const int left = 2131099673;
@@ -2432,8 +2429,8 @@ namespace com.kinetics.prism
 			// aapt resource value: 0x7f0600a2
 			public const int line3 = 2131099810;
 			
-			// aapt resource value: 0x7f0600af
-			public const int linearLayout2 = 2131099823;
+			// aapt resource value: 0x7f0600ae
+			public const int linearLayout2 = 2131099822;
 			
 			// aapt resource value: 0x7f06001d
 			public const int listMode = 2131099677;
@@ -2486,8 +2483,8 @@ namespace com.kinetics.prism
 			// aapt resource value: 0x7f0600a6
 			public const int relativeLayout1 = 2131099814;
 			
-			// aapt resource value: 0x7f0600b1
-			public const int relativeLayout2 = 2131099825;
+			// aapt resource value: 0x7f0600b0
+			public const int relativeLayout2 = 2131099824;
 			
 			// aapt resource value: 0x7f06001a
 			public const int right = 2131099674;
